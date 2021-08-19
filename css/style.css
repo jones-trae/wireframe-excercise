@@ -1,0 +1,35 @@
+body {
+
+
+}
+header { 
+  width: 500px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  background-color: black
+
+}
+
+header img {
+  width: 960px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+
+nav ul{
+  width: 100px;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  background-color: grey;
+  allign-items: center;
+}
+nav img {
+  display: flex;
+}
+
